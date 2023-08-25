@@ -39,3 +39,9 @@
     transform: rotate(360deg);
   }
 }
+.drop-currency{
+  padding: 0.6rem;
+}
+.like-btn {
+  cursor: pointer;
+}

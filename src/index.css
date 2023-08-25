@@ -11,3 +11,13 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+.drop-currency{
+  padding: 0.6rem !important;
+}
+.drop-budget{
+  padding: .85rem !important;
+}
+.like-btn {
+  cursor: pointer;
+}
